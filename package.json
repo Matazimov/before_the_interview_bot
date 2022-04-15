@@ -1,0 +1,11 @@
+{
+  "name": "facts-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "before_the_interview_bot.js",
+  "scripts": {
+    "test": "nodemon before_the_interview_bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
